@@ -4,7 +4,7 @@ How to detect the presence of mains electricity (in your home) using a RasPi or 
 # See the accompanying video at https://www.youtube.com/RalphBacon video #114  
 (Direct link to video https://youtu.be/cDuObAR42Nw)
 
-So I really want a SAFE way to detect mains in my workshop so can check whether I have left the lights, or more importanlty, the heater on.
+So I really want a SAFE way to detect mains in my workshop so can check whether I have left the lights, or more importantly, the heater on. Apart from the cost there is the fire risk too.
 
 This method is a NO CONTACT method using just a handful of discrete components and costing a couple of pounds (or dollars), if that much!
 
