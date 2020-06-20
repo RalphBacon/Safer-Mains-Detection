@@ -14,6 +14,8 @@ It's easy to build on strip-board and runs from 3.3 volts to 5-volts. Actually y
 LINKS    LINKS    LINKS    LINKS    LINKS    LINKS    LINKS    LINKS    LINKS    LINKS
 --------------------------------------------------------------------------------------
 
+### PLEASE NOTE THE CIRCUIT DIAGRAM STATES 2N2904 TRANSISTOR. THIS SHOULD BE **2N3904** TRANSISTOR (or any **NPN** general purpose equivalent, eg 2N2222).
+
 This is what gave me the inspiration:  
 How to build your own non-contact voltage detector article (with video) by Kiran Daware  
 https://www.jameco.com/Jameco/workshop/JamecoFavorites/non-contact-AC-voltage-detector.html
